@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Travel Recommendation - Home</title>
+  <link rel="stylesheet" href="travel_recommendation.css">
+</head>
+<body class="home">
+
+  <nav class="navbar">
+    <div class="logo">TravelBloom</div>
+    <ul class="nav-links">
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="about_us.html">About Us</a></li>
+      <li><a href="contact_us.html">Contact Us</a></li>
+    </ul>
+    <div class="search-box">
+      <input type="text" id="searchInput" placeholder="Enter a destination or keyword">
+      <button id="btnSearch">Search</button>
+      <button id="btnClear">Clear</button>
+    </div>
+  </nav>
+
+  <main class="hero">
+    <section class="intro">
+      <h1>Explore Dream Destination</h1>
+      <p>
+        Discover breathtaking beaches, ancient temples, and vibrant cities around the world.
+        Type a keyword such as <strong>beach</strong>, <strong>temple</strong>, or a country name
+        like <strong>Japan</strong>, <strong>Australia</strong>, or <strong>Brazil</strong>
+        to get travel recommendations tailored for you.
+      </p>
+      <a href="contact_us.html" class="btn-book">Book Now</a>
+    </section>
+
+    <section id="results" class="results"></section>
+  </main>
+
+  <script src="travel_recommendation.js"></script>
+</body>
+</html>
