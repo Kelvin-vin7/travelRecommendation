@@ -11,7 +11,7 @@
         },
         {
           "name": "Melbourne, Australia",
-          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Melbourne_skyline_sunset.jpg?width=800",
+          "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Melbourne_skyline.jpg?width=800",
           "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
         }
       ]
@@ -73,7 +73,7 @@
     {
       "id": 2,
       "name": "Copacabana Beach, Brazil",
-      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Copacabana_Beach_Rio_de_Janeiro.jpg?width=800",
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Copacabana_Beach.jpg?width=800",
       "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and stunning views."
     }
   ]
